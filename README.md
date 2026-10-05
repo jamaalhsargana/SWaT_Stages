@@ -1,13 +1,13 @@
 # Attack Detection and Stage Localisation on the SWaT Testbed
 
-This repo has the code from my MS thesis at NUST (2023): *Development of an Intelligent Intrusion Detection System for Smart Water Treatment and Distribution Plants in IoT-enabled Critical Infrastructures*. My supervisor was Dr Qaiser Riaz.
+This repo has the code from my thesis: *Development of an Intelligent Intrusion Detection System for Smart Water Treatment and Distribution Plants in IoT-enabled Critical Infrastructures*. My supervisor was Dr Qaiser Riaz.
 
 The idea was to use the same sensor data to answer two questions:
 
 1. Is the plant being attacked right now?
 2. If yes, which stage of the plant is the attack on?
 
-The notebook here is the original one I used for my thesis, uploaded as it is. The results below are exactly what the notebook printed. After my thesis I went back through the code again and found a few mistakes in how I evaluated the models, mostly in the stage detection part. I've written them down in [Known limitations](#known-limitations) because I think it's important to be honest about them, and I'm working on a fixed version now.
+The notebook here is the original one I used for my thesis, uploaded as it is. The results below are exactly what the notebook printed. After my thesis I went back through the code again and found a few mistakes in how I evaluated the models, mostly in the stage detection part. I've written them down in [Known limitations](#known-limitations)
 
 ---
 
