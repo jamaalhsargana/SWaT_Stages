@@ -1,6 +1,6 @@
 # Attack Detection and Stage Localisation on the SWaT Testbed
 
-This repo has the code from my thesis: *Development of an Intelligent Intrusion Detection System for Smart Water Treatment and Distribution Plants in IoT-enabled Critical Infrastructures*. My supervisor was Dr Qaiser Riaz.
+This repo has the code from my thesis: *Development of an Intelligent Intrusion Detection System for Smart Water Treatment and Distribution Plants in IoT-enabled Critical Infrastructures*. My supervisor Dr Qaiser Riaz.
 
 The idea was to use the same sensor data to answer two questions:
 
